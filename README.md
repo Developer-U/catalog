@@ -1,5 +1,5 @@
 # catalog
-Вёрстка и натяжка на Wordpress каталога недвижимости&nbsp;&nbsp;<a target="_blank" href="potolok.u0618804.plsk.regruhosting.ru">Посмотреть можно здесь</a>
+Вёрстка и натяжка на Wordpress каталога недвижимости&nbsp;&nbsp;<a target="_blank" href="https://x-partners.u0618804.plsk.regruhosting.ru/">Посмотреть можно здесь</a>
 <hr>
 
 * Адаптивная кросс-браузерная вёрстка на Flexbox<br>
